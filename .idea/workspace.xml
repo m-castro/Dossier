@@ -14,10 +14,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13fb1d4c-4299-4f46-b452-19c19f4a5f79" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Dossier/Dossier.iml" afterPath="$PROJECT_DIR$/Dossier/Dossier.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Dossier/src/main/java/com/deltaprogram/lldossier/MainActivity.java" afterPath="$PROJECT_DIR$/Dossier/src/main/java/com/deltaprogram/lldossier/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Dossier.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -84,7 +81,7 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Dossier/src/main/java/com/deltaprogram/lldossier/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="164" selection-end="164" vertical-scroll-proportion="0.1923077" vertical-offset="0" max-vertical-offset="390">
+            <state line="20" column="5" selection-start="164" selection-end="563" vertical-scroll-proportion="0.65384614" vertical-offset="15" max-vertical-offset="405">
               <folding />
             </state>
           </provider>
@@ -588,7 +585,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Dossier/src/main/java/com/deltaprogram/lldossier/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="164" selection-end="164" vertical-scroll-proportion="0.1923077" vertical-offset="0" max-vertical-offset="390">
+        <state line="20" column="5" selection-start="164" selection-end="563" vertical-scroll-proportion="0.65384614" vertical-offset="15" max-vertical-offset="405">
           <folding />
         </state>
       </provider>
